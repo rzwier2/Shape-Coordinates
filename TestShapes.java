@@ -2,13 +2,12 @@
  * +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
  * Object-Oriented Programming: Project 2
  * @date 09/27/2019
- * @author Ryan Zwier
+ * @author Ryan Z
  * 
  * This file is a test class implements an array of 
  * Shape and insert into the array, one of each kind 
  * of a Shape subclass
  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
- Went to drop-in hours and worked through difficulties with David Hudak
 */
 
 import java.util.*;
