@@ -2,7 +2,7 @@
  * +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
  * Object-Oriented Programming: Project 2
  * @date 09/27/2019
- * @author Ryan Zwier
+ * @author Ryan Z
  * 
  * Concrete subclass
  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ 
