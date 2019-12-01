@@ -2,7 +2,7 @@
  * +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
  * Object-Oriented Programming: Project 2
  * @date 09/27/2019
- * @author Ryan Zwier
+ * @author Ryan Z
  * 
  * class Point, a constructor public Point(double x, double y)
  *  and accessor methods getX, getY
